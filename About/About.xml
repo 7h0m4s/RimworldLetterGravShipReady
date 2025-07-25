@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<packageId>7h0m4s.RimWorld.RimworldLetterGravShipReady</packageId>
-	<name>Letter GravShip Ready</name>
+	<name>Letter Gravship Ready</name>
 	<author>7h0m4s</author>
 	<supportedVersions>
 		<li>1.6</li>
@@ -17,7 +17,7 @@
 	<loadAfter>
 		<li>brrainz.harmony</li>
 	</loadAfter>
-	<description>Send a letter when the GravShip is ready to take off again.
+	<description>Send a letter when the gravship is ready to take off again.
 
 It can be safely added mid-game.
 
