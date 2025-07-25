@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Gravship Ready</LGS_Letter_Label>
+	<LGS_Letter_Text>Gravship is ready to launch again.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>Letter On Gravship Ready</LGS_Option_Mod_Name>
+	<LGS_Option>Alert on Gravship Ready To Launch</LGS_Option>
+	<LGS_Option_Enable>Enable</LGS_Option_Enable>
+</LanguageData>
