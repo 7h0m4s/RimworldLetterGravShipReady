@@ -16,17 +16,12 @@
 	</modDependencies>
 	<loadAfter>
 		<li>brrainz.harmony</li>
+		<li>ludeon.rimworld.odyssey</li>
 	</loadAfter>
 	<description>Send a letter when the gravship is ready to take off again.
 
 It can be safely added mid-game.
 
 Github: https://github.com/7h0m4s/RimworldLetterGravShipReady
-
-Version history
-[b]v0.0.1[/b]
-[list]
-[*]Initial version
-[/list]
 </description>
 </ModMetaData>
