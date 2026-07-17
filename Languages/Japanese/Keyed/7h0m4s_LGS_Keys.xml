@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>重力船準備完了</LGS_Letter_Label>
+	<LGS_Letter_Text>重力船は発進準備が整いました。</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>重力船準備完了の手紙</LGS_Option_Mod_Name>
+	<LGS_Option>重力船が発進準備完了になったら通知</LGS_Option>
+	<LGS_Option_Enable>有効にする</LGS_Option_Enable>
+</LanguageData>

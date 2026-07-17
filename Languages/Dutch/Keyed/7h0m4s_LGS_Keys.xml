@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Gravschip gereed</LGS_Letter_Label>
+	<LGS_Letter_Text>Het gravschip is klaar om te lanceren.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>Brief bij gravschip gereed</LGS_Option_Mod_Name>
+	<LGS_Option>Melding wanneer gravschip klaar is om te lanceren</LGS_Option>
+	<LGS_Option_Enable>Inschakelen</LGS_Option_Enable>
+</LanguageData>

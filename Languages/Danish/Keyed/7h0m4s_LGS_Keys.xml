@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Gravskib klar</LGS_Letter_Label>
+	<LGS_Letter_Text>Gravskibet er klar til opsendelse.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>Brev om gravskib klar</LGS_Option_Mod_Name>
+	<LGS_Option>Advarsel når gravskib er klar til opsendelse</LGS_Option>
+	<LGS_Option_Enable>Aktivér</LGS_Option_Enable>
+</LanguageData>

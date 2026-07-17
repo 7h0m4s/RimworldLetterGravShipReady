@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Gravitatsioonilaev valmis</LGS_Letter_Label>
+	<LGS_Letter_Text>Gravitatsioonilaev on stardivalmis.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>Kiri gravitatsioonilaeva valmisolekust</LGS_Option_Mod_Name>
+	<LGS_Option>Hoiatus, kui gravitatsioonilaev on stardivalmis</LGS_Option>
+	<LGS_Option_Enable>Luba</LGS_Option_Enable>
+</LanguageData>

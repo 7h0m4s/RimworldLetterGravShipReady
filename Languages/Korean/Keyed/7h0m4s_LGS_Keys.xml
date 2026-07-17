@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>중력선 준비 완료</LGS_Letter_Label>
+	<LGS_Letter_Text>중력선이 발진할 준비가 되었습니다.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>중력선 준비 완료 편지</LGS_Option_Mod_Name>
+	<LGS_Option>중력선 발진 준비 완료 시 알림</LGS_Option>
+	<LGS_Option_Enable>활성화</LGS_Option_Enable>
+</LanguageData>

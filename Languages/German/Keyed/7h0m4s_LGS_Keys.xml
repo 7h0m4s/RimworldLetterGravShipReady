@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Gravitationsschiff bereit</LGS_Letter_Label>
+	<LGS_Letter_Text>Das Gravitationsschiff ist startbereit.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>Brief bei Gravitationsschiff bereit</LGS_Option_Mod_Name>
+	<LGS_Option>Hinweis, wenn das Gravitationsschiff startbereit ist</LGS_Option>
+	<LGS_Option_Enable>Aktivieren</LGS_Option_Enable>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Gravskepp klart</LGS_Letter_Label>
+	<LGS_Letter_Text>Gravskeppet är redo att lyfta.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>Brev om gravskepp klart</LGS_Option_Mod_Name>
+	<LGS_Option>Varning när gravskeppet är redo att lyfta</LGS_Option>
+	<LGS_Option_Enable>Aktivera</LGS_Option_Enable>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Grawistatek gotowy</LGS_Letter_Label>
+	<LGS_Letter_Text>Grawistatek jest gotowy do startu.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>List o gotowości grawistatku</LGS_Option_Mod_Name>
+	<LGS_Option>Alert, gdy grawistatek jest gotowy do startu</LGS_Option>
+	<LGS_Option_Enable>Włącz</LGS_Option_Enable>
+</LanguageData>

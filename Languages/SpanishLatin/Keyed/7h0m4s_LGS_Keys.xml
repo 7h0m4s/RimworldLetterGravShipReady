@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Nave gravitatoria lista</LGS_Letter_Label>
+	<LGS_Letter_Text>La nave gravitatoria está lista para despegar.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>Carta - Nave gravitatoria lista</LGS_Option_Mod_Name>
+	<LGS_Option>Alerta cuando la nave gravitatoria esté lista para despegar</LGS_Option>
+	<LGS_Option_Enable>Activar</LGS_Option_Enable>
+</LanguageData>

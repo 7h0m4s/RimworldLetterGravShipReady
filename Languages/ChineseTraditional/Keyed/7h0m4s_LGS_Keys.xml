@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>重力飛船已就緒</LGS_Letter_Label>
+	<LGS_Letter_Text>重力飛船已準備好起飛。</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>重力飛船就緒信件</LGS_Option_Mod_Name>
+	<LGS_Option>重力飛船準備起飛時提醒</LGS_Option>
+	<LGS_Option_Enable>啟用</LGS_Option_Enable>
+</LanguageData>

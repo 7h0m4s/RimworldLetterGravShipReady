@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Gravitačná loď pripravená</LGS_Letter_Label>
+	<LGS_Letter_Text>Gravitačná loď je pripravená na štart.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>List o pripravenosti gravitačnej lode</LGS_Option_Mod_Name>
+	<LGS_Option>Upozornenie na pripravenosť gravitačnej lode na štart</LGS_Option>
+	<LGS_Option_Enable>Povoliť</LGS_Option_Enable>
+</LanguageData>

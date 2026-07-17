@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Painovoima-alus valmis</LGS_Letter_Label>
+	<LGS_Letter_Text>Painovoima-alus on valmis laukaistavaksi.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>Kirje painovoima-aluksen valmiudesta</LGS_Option_Mod_Name>
+	<LGS_Option>Hälytys, kun painovoima-alus on valmis laukaistavaksi</LGS_Option>
+	<LGS_Option_Enable>Ota käyttöön</LGS_Option_Enable>
+</LanguageData>

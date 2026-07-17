@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Astronave gravitazionale pronta</LGS_Letter_Label>
+	<LGS_Letter_Text>L'astronave gravitazionale è pronta al lancio.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>Lettera - Astronave gravitazionale pronta</LGS_Option_Mod_Name>
+	<LGS_Option>Avviso quando l'astronave gravitazionale è pronta al lancio</LGS_Option>
+	<LGS_Option_Enable>Abilita</LGS_Option_Enable>
+</LanguageData>

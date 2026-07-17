@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Гравікорабель готовий</LGS_Letter_Label>
+	<LGS_Letter_Text>Гравікорабель готовий до запуску.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>Лист про готовність гравікорабля</LGS_Option_Mod_Name>
+	<LGS_Option>Сповіщення про готовність гравікорабля до запуску</LGS_Option>
+	<LGS_Option_Enable>Увімкнути</LGS_Option_Enable>
+</LanguageData>

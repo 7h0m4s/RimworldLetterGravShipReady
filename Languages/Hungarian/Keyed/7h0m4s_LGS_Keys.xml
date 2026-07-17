@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Gravhajó kész</LGS_Letter_Label>
+	<LGS_Letter_Text>A gravhajó készen áll a felszállásra.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>Levél a gravhajó készenlétéről</LGS_Option_Mod_Name>
+	<LGS_Option>Figyelmeztetés, amikor a gravhajó készen áll a felszállásra</LGS_Option>
+	<LGS_Option_Enable>Engedélyezés</LGS_Option_Enable>
+</LanguageData>

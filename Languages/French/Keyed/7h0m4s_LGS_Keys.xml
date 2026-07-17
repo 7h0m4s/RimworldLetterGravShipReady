@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Vaisseau à gravité prêt</LGS_Letter_Label>
+	<LGS_Letter_Text>Le vaisseau à gravité est prêt à décoller.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>Lettre - Vaisseau à gravité prêt</LGS_Option_Mod_Name>
+	<LGS_Option>Alerte quand le vaisseau à gravité est prêt à décoller</LGS_Option>
+	<LGS_Option_Enable>Activer</LGS_Option_Enable>
+</LanguageData>

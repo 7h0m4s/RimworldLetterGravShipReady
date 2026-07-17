@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Çekim gemisi hazır</LGS_Letter_Label>
+	<LGS_Letter_Text>Çekim gemisi kalkışa hazır.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>Çekim gemisi hazır mektubu</LGS_Option_Mod_Name>
+	<LGS_Option>Çekim gemisi kalkışa hazır olduğunda uyarı</LGS_Option>
+	<LGS_Option_Enable>Etkinleştir</LGS_Option_Enable>
+</LanguageData>

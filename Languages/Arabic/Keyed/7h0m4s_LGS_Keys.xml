@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>السفينة الجاذبية جاهزة</LGS_Letter_Label>
+	<LGS_Letter_Text>السفينة الجاذبية جاهزة للإقلاع.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>رسالة عند جاهزية السفينة الجاذبية</LGS_Option_Mod_Name>
+	<LGS_Option>تنبيه عند جاهزية السفينة الجاذبية للإقلاع</LGS_Option>
+	<LGS_Option_Enable>تفعيل</LGS_Option_Enable>
+</LanguageData>

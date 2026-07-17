@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LGS_Letter_Label>Nava gravitațională pregătită</LGS_Letter_Label>
+	<LGS_Letter_Text>Nava gravitațională este pregătită de lansare.</LGS_Letter_Text>
+	
+	<LGS_Option_Mod_Name>Scrisoare - Nava gravitațională pregătită</LGS_Option_Mod_Name>
+	<LGS_Option>Alertă când nava gravitațională este pregătită de lansare</LGS_Option>
+	<LGS_Option_Enable>Activează</LGS_Option_Enable>
+</LanguageData>
